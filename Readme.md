@@ -46,6 +46,7 @@ Full experimental details and quantitative results can be found in the attached 
 Original framework described in:  
 > *Text Empowered Video Anomaly Detection (TEVAD)*, 2023.  
 > [TEAVAD repository](https://github.com/coranholmes/TEVAD)
+> [TEAVAD paper](https://openaccess.thecvf.com/content/CVPR2023W/O-DRUM/papers/Chen_TEVAD_Improved_Video_Anomaly_Detection_With_Captions_CVPRW_2023_paper.pdf)
 
 ---
 
